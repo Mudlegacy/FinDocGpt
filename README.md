@@ -10,7 +10,6 @@ Built for hackathons: fast, explainable, and demo-ready.
 - **Equity analysts / PMs** – rapid triage of filings/letters with citations, quick baseline forecast, and an auditable action.
 - **Fintech builders** – a clean, modular RAG + forecasting scaffold with strict JSON outputs and a simple UI.
 - **Founders & product managers** – a working demo that converts raw docs into decision-ready signals, with a chat explainer.
-- **Hackathon judges** – transparent pipeline, reproducible outputs, evidence snippets, and downloadable JSON.
 
 ---
 
